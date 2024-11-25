@@ -1,0 +1,12 @@
+div{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+div button {
+    width: 120px;
+    height: 30px;
+    background: black;
+    color: white;
+    margin-top: 20px;
+}
